@@ -1,3 +1,7 @@
+EDIT:
+This is the video demo: https://www.youtube.com/watch?v=hudzquQz7wE
+Tools used: gemini api, google cloud run, batch jobs, google cloud storage, vertex ai, Mongodb, docker. Nextjs, python fastAPI
+
 Code used to develop "Find your Vacation" for the AI in action google cloud and mongodb hackathon.
 
 Process: (numbering corresponds to numbering in python files)
